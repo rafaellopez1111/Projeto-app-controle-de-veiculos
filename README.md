@@ -1,17 +1,4 @@
-# CarControl — versão React + Vite
-
-Porte do app original (HTML + CSS + JS puro) para **React com Vite**, mantendo
-exatamente o mesmo visual (o CSS foi reaproveitado sem alterações) e a mesma
-interatividade. Os comentários em português seguem o estilo explicativo do
-`script.js` original.
-
-## Como rodar
-
-```bash
-npm install
-npm run dev      # abre em http://localhost:5173
-npm run build    # gera a versão de produção em dist/
-```
+# CarControl
 
 ## Estrutura
 
