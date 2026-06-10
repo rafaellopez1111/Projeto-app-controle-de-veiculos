@@ -26,5 +26,3 @@ src/
     BookingForm.jsx    # formulário controlado + validação
     Toast.jsx          # notificação de confirmação
 ```
- `appts` (por exemplo em `localStorage` ou numa API)
-dentro da tela `Manutencao`.
